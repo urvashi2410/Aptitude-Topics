@@ -1,0 +1,18 @@
+Q1 If p and q are the two digits of the number 653pq such that this number is divisible by 80, then p+q is equal to :
+Q2 A 3-digit number 4p3 is added to another 3-digit number 984 to give the four-digit number 13q7, which is divisible by 11. Then, (p + q) is : a)10 b)11 c)12 d)15
+Q3 A six-digit number is formed by repeating a three-digit number; for example, 256256 or 678678 etc. Any number of this form is always exactly divisible by : a)7 only b)13 only c)11 only d)1001
+Q4 The sum of first 49 natural numbers is ?
+Q5 If the number 653ab is divisible by 90, then (a + b) = ? a)2 b)3 c)4 d)6
+Q6 If (64)^2 - (36)^2 = 20 x a, then a = ?
+Q7 P is a whole number which when divided by 4 gives 3 as remainder. What will be the remainder when 2P is divided by 4 ?
+Q8 The difference between two numbers is 2395. When the larger number is divided by the smaller one, the quotient is 6 and the remainder is 15. The smaller number is?
+Q9 A number is divided by 221, the remainder is 64. If the number be divided by 13 then remainder will be
+Q10 Which of the following number should be added to 11158 to make it exactly divisible by 77?
+Q11 What least number must be substracted from 427398 so that the remaining number is divisible by 15?
+Q12 The least number which when divided by 4, 6, 8, 12 and 16 leaves a remainder of 2 in each case is?
+Q13 Find the smallest number which leaves 22, 35, 48 and 61 as remainders when divided by 26, 39, 52 and 65 respectively.
+Q14 Let 13 and 273 are the HCF and LCM of two numbers respectively, and if one of them is less than 140 and greater than 60. Then what will be that number?
+Q15 Which of the following are prime numbers? A) 241 B) 303 C) 111 D) 121 E) None of these 
+Q16 What is the largest integer that divides all three numbers 23400, 272304 and 205248 without leaving a remainder?
+Q17 On dividing a number by 5, we get remainder as 3. What will be the remainder when the square of this number is divided by 5?
+Q18 Learn squares of numbers upto 30
